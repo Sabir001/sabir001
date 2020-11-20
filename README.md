@@ -7,4 +7,4 @@ I have been working in Software industry for almost 4 years.
 - 🤔 I’m looking for help with DDD, Microservices, Scalability.
 - 💬 Ask me about React Ecosystem, Java Ecosystem, GCP, SQL Databases
 
-![Sabir's github stats](https://github-readme-stats.vercel.app/api?username=sabir001)
+![Sabir's github stats](https://github-readme-stats.vercel.app/api?username=sabir001&count_private=true)
